@@ -1,2 +1,2 @@
 # ReMapper-Template-Script
-My Template for a beginner ReMapper Script
+My Template for a beginner ReMapper Script, this script will cover the basics of remapper including blender to Env (now called ModelScene), basic objects, lighting, environment, settings and difficulties.  The Examples.md will walk you through what is in the script and why it is there while also explaining what each function does and how it works.  This template is reccommended of people with little to no coding experience, if you have andy questions dm me @splashcard__6518, if you'd like extra explanations added to the repo im open to ideas.  
