@@ -35,4 +35,4 @@ Now We have come to the water function.  You in generall wont need to touch anyt
 And finnaly we have `map.save();` This will take the stated difficulty from before and export your changes there.
 
 Now some suggestions for running your map follow the install instructions for ReMapper linked here: https://github.com/Swifter1243/ReMapper/blob/master/README.md
-When it says to use the denon version, trust me just use the denon version.  It's so much faster and easier in the long run, just grab the scripts.json from this repositiory and you will barley have to do anything.  Also if you rename this script, before running with `denon rm` make sure the script is named `script.ts` or you will get an error.  Good luck and I hope you hav fun with this template.
+When it says to use the denon version, trust me just use the denon version.  It's so much faster and easier in the long run, just grab the scripts.json from this repositiory and you will barley have to do anything.  Also if you rename this script, before running with `denon rm` make sure the script is named `script.ts` or you will get an error.  Good luck and I hope you have fun with this template.
